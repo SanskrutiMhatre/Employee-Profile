@@ -1,0 +1,36 @@
+/* src/components/Profile.css */
+
+.profile-widget {
+    background: #fff;
+    border: 1px solid #e3e3e3;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .image-container {
+    position: relative;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #e3e3e3;
+  }
+  
+  .btn {
+    margin-right: 10px;
+  }
+  
