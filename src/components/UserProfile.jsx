@@ -29,7 +29,7 @@ const UserProfile = () => {
                 <hr className="my-4" />
                 <li className="list-group-item d-flex justify-content-between align-items-center flex-wrap">
       <h6 className="mb-0">
-        <FaPhoneAlt className="me-2" /> {/* Phone icon */}
+        <FaPhoneAlt className="me-2" /> 
         Phone
       </h6>
       <span className="text-secondary"> (239) 816-9029</span>
@@ -37,7 +37,7 @@ const UserProfile = () => {
     <br></br>
     <li className="list-group-item d-flex justify-content-between align-items-center flex-wrap">
       <h6 className="mb-0">
-        <FaEnvelope className="me-2" /> {/* Envelope icon */}
+        <FaEnvelope className="me-2" /> 
         Email
       </h6>
       <span className="text-secondary">john@gmail.com</span>
@@ -123,7 +123,7 @@ const UserProfile = () => {
                 <input type="text" className="form-control" value="2022" />
               </div>
             </div>
-            {/* Add the subfields here */}
+          
             <div className="row mb-3">
               <div className="col-sm-3">
                 <h6 className="mb-0">Postgraduate Degree</h6>
